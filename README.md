@@ -1,5 +1,5 @@
 
-# Retrieval Augmented Generation (RAG) Pipeline
+# Retrieval Augmented Generation (RAG) Pipeline - Mainly for Beginners
 
 This project is a simple, open-source Retrieval Augmented Generation (RAG) pipeline using HuggingFace models and LangChain. 
 
